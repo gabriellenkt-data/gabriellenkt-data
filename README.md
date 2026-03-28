@@ -50,4 +50,4 @@ Customer segmentation project using transactional data and Power BI dashboarding
 
 ## Contact
 
-* LinkedIn: 
+* LinkedIn: [View my profile](https://www.linkedin.com/in/gabrielle-nkouatchet)
