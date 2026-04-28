@@ -9,6 +9,7 @@ I enjoy transforming data into actionable insights and building projects that co
 **Data Analysis & Machine Learning**
 
 * Python (Pandas, NumPy, Scikit-learn)
+* SQL (data querying)
 * Data Cleaning & Preparation
 * Exploratory Data Analysis (EDA)
 * Predictive Modeling (Classification)
@@ -25,7 +26,6 @@ I enjoy transforming data into actionable insights and building projects that co
 
 ## Additional Knowledge
 
-* SQL (data querying)
 * R (data analysis & spatial visualization)
 * Java (programming fundamentals)
 * Hadoop ecosystem (big data concepts)
@@ -42,11 +42,15 @@ Machine learning project to predict credit default risk using financial and beha
 
 Customer segmentation project using transactional data and Power BI dashboarding to generate business insights.
 
+### E-commerce Sales Performance Analysis
+
+End-to-end data analysis project leveraging SQL and Power BI to analyze sales trends, customer behavior, and provide data-driven business recommendations.
+
 ## Current Focus
 
 * Strengthening my data analytics portfolio
 * Building SQL and Power BI projects
-* Applying for entry-level Data Analyst roles
+* Applying for Data Analyst roles
 
 ## Contact
 
