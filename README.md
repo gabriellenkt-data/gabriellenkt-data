@@ -50,7 +50,7 @@ End-to-end data analysis project leveraging SQL and Power BI to analyze sales tr
 
 * Strengthening my data analytics portfolio
 * Building SQL and Power BI projects
-* Applying for Data Analyst roles
+* Actively seeking opportunities as a Junior Data Analyst
 
 ## Contact
 
