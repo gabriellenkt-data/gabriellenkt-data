@@ -1,8 +1,8 @@
 # Hi, I'm Gabrielle
 
-Aspiring Data Analyst with a background in communications and hands-on training in data science and analytics.
+Data Analyst with a background in communications and hands-on experience in data analytics and business insights.
 
-I enjoy transforming data into actionable insights and building projects that combine technical analysis with business impact.
+I specialize in transforming data into actionable insights through SQL, Python, and Power BI. My work focuses on analyzing business performance, building interactive dashboards, and delivering data-driven recommendations.
 
 ## Skills
 
@@ -48,9 +48,10 @@ End-to-end data analysis project leveraging SQL and Power BI to analyze sales tr
 
 ## Current Focus
 
-* Strengthening my data analytics portfolio
-* Building SQL and Power BI projects
-* Actively seeking opportunities as a Junior Data Analyst
+* Developing end-to-end data analytics projects (SQL, Python, Power BI)
+* Strengthening my portfolio with real-world business use cases
+* Deepening my skills in data analysis, KPI tracking, and visualization
+* Exploring opportunities in Data Analytics and Business Analytics
 
 ## Contact
 
